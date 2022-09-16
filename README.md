@@ -1,5 +1,5 @@
 # Soptionssix-AOS
-앱 이름이 뭐에요~?
+보이지 않는 손
 
 ## *Code Convention*
 [Code Convention](https://azure-sawfish-822.notion.site/Code-convention-12ec748d180745238dea21850538cd72)
